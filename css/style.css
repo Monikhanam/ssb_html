@@ -1,0 +1,19 @@
+
+.black{
+	border: 5px dotted red;
+	color: green;
+}
+
+#font{
+       font-size: 50px;
+}
+}
+table{
+	width: 50%;
+	border: 5px solid blue;
+
+}
+th,td{
+	border: 5px solid blue;
+	text-align: center;
+}
